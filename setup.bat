@@ -1,7 +1,7 @@
 @echo off
 echo ==========================================
 echo  INICIANDO CONFIGURACION AUTOMATICA 
-echo       Esto no fue hecho con Gemini, guiño guiño
+echo       Esto no fue hecho con Gemini, guino guino
 echo ==========================================
 echo.
 
@@ -42,3 +42,4 @@ echo Frontend: http://localhost:8080
 echo.
 
 pause
+
